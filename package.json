@@ -1,0 +1,20 @@
+{
+  "name": "wholesale-chatbot",
+  "version": "1.0.0",
+  "description": "Ask-me-anything chatbot for wholesale real estate, trained on Flip With Rick's free wholesaling material (Zillow FSBO, agent/MLS offers, ARV comps, MAO).",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node src/server.js",
+    "chat": "node src/cli.js",
+    "test": "node --test \"test/**/*.test.js\"",
+    "build:artifact": "node scripts/build-artifact.js",
+    "ingest": "node scripts/ingest-youtube.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.133.0"
+  }
+}
