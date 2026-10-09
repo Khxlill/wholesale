@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Wholesale Coach</title>
+  <meta name="description" content="Ask questions about wholesale real estate - Zillow FSBOs, comps, ARV, repairs, MAO - based on Flip With Rick's free training." />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 32 32%22%3E%3Crect width=%2232%22 height=%2232%22 rx=%228%22 fill=%22%231f6f4a%22/%3E%3Cpath d=%22M7 17l9-8 9 8v8H7z%22 fill=%22white%22/%3E%3C/svg%3E" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@600;700;800&display=swap" />
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="logo" aria-hidden="true">WC</span>
+      <div>
+        <h1>Wholesale Coach</h1>
+        <p class="sub">Wholesaling Q&amp;A trained on Flip With Rick's free material</p>
+      </div>
+    </div>
+    <nav class="tabs" role="tablist">
+      <button role="tab" id="tab-chat" aria-selected="true" data-view="chat">Chat</button>
+      <button role="tab" id="tab-calc" aria-selected="false" data-view="calc">Calculator</button>
+    </nav>
+  </header>
+
+  <main class="layout">
+    <section class="chat view active" id="view-chat" aria-label="Chat">
+      <div class="log" id="log" aria-live="polite">
+        <div class="welcome" id="welcome">
+          <h2>Ask anything about wholesaling</h2>
+          <p>Finding deals on Zillow, talking to FSBO sellers and listing agents, comping ARV, estimating repairs, and figuring out your max offer.</p>
+          <div class="chips" id="chips">
+            <button>How do I find wholesale deals on Zillow for free?</button>
+            <button>Give me a script for calling a Zillow FSBO seller</button>
+            <button>How do I make a lowball offer to a listing agent?</button>
+            <button>Walk me through comping ARV on Zillow</button>
+            <button>ARV $250k, repairs $45k, asking $150k. What's my MAO?</button>
+            <button>What happens after the seller signs the contract?</button>
+          </div>
+        </div>
+      </div>
+      <form class="composer" id="composer">
+        <textarea id="input" rows="1" placeholder="Ask a wholesaling question..." aria-label="Your question"></textarea>
+        <button type="submit" id="send" aria-label="Send">Send</button>
+      </form>
+      <p class="fineprint">Educational only, not legal or financial advice. Wholesaling rules vary by state.</p>
+    </section>
+
+    <aside class="calc view" id="view-calc" aria-label="Deal calculator">
+      <div class="card">
+        <h2>Max allowable offer</h2>
+        <div class="grid2">
+          <label>ARV (after repair value)<input id="arv" inputmode="numeric" placeholder="250,000" /></label>
+          <label>Repair cost<input id="repairs" inputmode="numeric" placeholder="45,000" /></label>
+          <label>Investor profit <output id="profitOut">27%</output>
+            <input id="profit" type="range" min="20" max="35" step="0.5" value="27" />
+          </label>
+          <label>Assignment fee <output id="feeOut">$10,000</output>
+            <input id="fee" type="range" min="2500" max="25000" step="500" value="10000" />
+          </label>
+          <label class="span2">Seller's asking price (optional)<input id="ask" inputmode="numeric" placeholder="150,000" /></label>
+        </div>
+        <div id="results" class="results" hidden>
+          <div class="hero">
+            <span class="label">Your MAO</span>
+            <span class="big" id="maoBig">-</span>
+            <span class="formula" id="maoFormula"></span>
+          </div>
+          <dl class="kv">
+            <dt>Opening offer (LAO, 70% of MAO)</dt><dd id="lao">-</dd>
+            <dt>MAO range (30%+$10k to 27%+$5k)</dt><dd id="range">-</dd>
+            <dt>Cash buyer's max price</dt><dd id="buyer">-</dd>
+            <dt>Rick's sliding scale <small id="rickTier"></small></dt><dd id="rick">-</dd>
+            <dt>Classic 70% rule</dt><dd id="seventy">-</dd>
+          </dl>
+          <p class="verdict" id="verdict" hidden></p>
+          <button class="primary" id="askCoach" type="button">Ask the coach about this deal</button>
+        </div>
+      </div>
+
+      <details class="card">
+        <summary><h2>Comps to ARV</h2></summary>
+        <p class="hint">Sold, renovated homes. Ideally within 0.5 mi, sold in the last 6 months, within 20% of the subject's square footage.</p>
+        <label>Subject square feet<input id="subjectSqft" inputmode="numeric" placeholder="1,500" /></label>
+        <table class="comps">
+          <thead><tr><th>Sold price</th><th>Sq ft</th><th>Miles</th><th>Months ago</th><th></th></tr></thead>
+          <tbody id="compRows"></tbody>
+        </table>
+        <div class="row">
+          <button class="secondary" id="addComp" type="button">+ Add comp</button>
+          <button class="primary" id="useArv" type="button" disabled>Use as ARV</button>
+        </div>
+        <p class="out" id="arvOut"></p>
+      </details>
+
+      <details class="card">
+        <summary><h2>Repair estimate</h2></summary>
+        <p class="hint">Same checklist as Rick's repair form. Ballpark national costs; get local bids before a firm offer.</p>
+        <div class="grid2">
+          <label>Square feet<input id="rSqft" inputmode="numeric" placeholder="1,500" /></label>
+          <label>Bathrooms to renovate<input id="rBaths" type="number" min="0" value="0" /></label>
+          <label>Bedrooms to refresh<input id="rBeds" type="number" min="0" value="0" /></label>
+        </div>
+        <div class="checks">
+          <label><input type="checkbox" id="rRoof" /> New roof</label>
+          <label><input type="checkbox" id="rKitchen" /> Kitchen update</label>
+          <label><input type="checkbox" id="rFloor" /> Vinyl plank floors</label>
+          <label><input type="checkbox" id="rFoundation" /> Foundation issues</label>
+          <label><input type="checkbox" id="rHvac" /> HVAC</label>
+          <label><input type="checkbox" id="rPaint" /> Interior paint</label>
+        </div>
+        <div class="row"><button class="primary" id="useRepairs" type="button" disabled>Use as repair cost</button></div>
+        <p class="out" id="repairOut"></p>
+      </details>
+    </aside>
+  </main>
+
+  <script type="module" src="/app.js"></script>
+</body>
+</html>

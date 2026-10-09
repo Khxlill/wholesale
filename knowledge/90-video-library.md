@@ -1,0 +1,482 @@
+# Flip With Rick video library (by topic)
+
+Titles and links from the @FlipWithRick YouTube channel (pulled October 2026: 1279 uploads and 826 live streams). Use this to point people to the right video. Titles describe what each video covers; the content itself is summarized in the other knowledge files. Within each topic, videos are sorted by view count. "live" marks a recorded live stream.
+
+## Zillow, Redfin and FSBO (for sale by owner)
+
+- How To Find Wholesaling Real Estate Deals For FREE with Zillow (14 min) https://youtu.be/f89JF8IYVAI
+- How to Pull FREE Tired Landlord Lists from Zillow | Wholesaling Real Estate (14 min) https://youtu.be/jeAl2P6L-40
+- How to Find Wholesaling Deals for FREE - Using Zillow For Sale by Owners! (9 min) https://youtu.be/FF8P2fz4hdQ
+- How to Make Your First $25,000 Cold Calling Zillow FSBO's | Wholesaling Real Estate (25 min) https://youtu.be/qc_ea3x361k
+- F*CK Zillow - Best New Website to Get Your First Wholesale Deal (11 min) https://youtu.be/lGi6pL998ik
+- I just made $50,000 from this FSBO Deal from Zillow | Wholesaling Real Estate (15 min) https://youtu.be/T0_5kyMmOCE
+- Cold Calling Zillow FSBO's (LIVE) | Wholesaling Real Estate (120 min, live) https://youtu.be/hhEvlBp7-rY
+- How to Cold Call Zillow FSBO for FREE Motivated Sellers Leads! | Virtual Wholesaling Real Estate (61 min, live) https://youtu.be/r93NaP_Y8do
+- Cold Calling LIVE FSBO SELLERS (120 min, live) https://youtu.be/I9NYPNmj7I0
+- How to Get Your First Wholesaling Deal in 30 Days Using Zillow (18 min) https://youtu.be/9WdO1U4N9DY
+- How I Made $500,000 this Year by Cold Calling Zillow FSBOS (11 min) https://youtu.be/D6t-3tZ5J1I
+- Cold Calling Zillow FSBO List (Live) Wholesaling Real Estate (81 min, live) https://youtu.be/sE2YNx6xAVI
+- Live Cold Call Zillow: For Sale By Owner (FSBO)- Wholesaling Real Estate (120 min, live) https://youtu.be/gv4wYBikdGw
+- How to Get Your First Wholesaling Deal in Under 2 Weeks with Zillow (15 min) https://youtu.be/TMyk2-Jaz4U
+- This New AI Zillow System Feels Like Cheating… (10 min) https://youtu.be/7D49iGsCjMo
+- ⚠️WARNING ⚠️ Zillow Values are CRASHING & Sellers are FREAKING OUT! - Wholesaling Real Estate (124 min, live) https://youtu.be/23sX620hLC8
+- What to Do About the Zillow Housing Crash | Wholesaling Real Estate (12 min) https://youtu.be/ZfCvzLdiVl4
+- Wholesaling Real Estate- 2+ Hours of LIVE FSBO COLD CALLING (120 min, live) https://youtu.be/T5DNeU1oYi8
+- LIVE FSBO CALLS - Setting Appointments Live (Use my FSBO Script) | Wholesaling Real Estate (120 min, live) https://youtu.be/E_UsEyba8E8
+- This AI System Finds $25k Wholesale Deals on Zillow (Step-by-Step) (81 min, live) https://youtu.be/9N9iTdC9uq0
+- Live Cold Calling Zillow FSBO Sellers |  Wholesaling Real Estate (82 min, live) https://youtu.be/JpZ1N6q361A
+- This AI + Zillow Strategy Finds Wholesaling Deals in Minutes (13 min) https://youtu.be/BEEes_2ZXKg
+- LIVE ZILLOW FSBO Cold Calls!- Wholesaling Real Estate (122 min, live) https://youtu.be/csNsUgfZKrs
+- How to LOWBALL Sellers on Zillow (My Exact Script) (12 min) https://youtu.be/AyosQ8CM9TI
+- The NEW Way Of Finding Cash Buyers on Zillow For Wholesaling With $0 (16 min) https://youtu.be/_o_OuEi4bkU
+- How To Get Your First Virtual Wholesale Deal Using ONLY Zillow (12 min) https://youtu.be/YDXpkvkHV6A
+- WATCH ME Cold Call FSBO (For Sale By Owner) LIVE | Wholesaling Real Estate (69 min, live) https://youtu.be/xLHXNpJd_WU
+- Is Zillow Offers Going to Kill Wholesaling Real Estate? (11 min) https://youtu.be/fccENuI6yWU
+
+## Agents, MLS and on-market deals
+
+- What’s the TOP Cold Calling Dialer for Real Estate Investing, Agents, and Wholesaling? (10 min) https://youtu.be/kOnKgS0MfEQ
+- How to Find & Wholesale MLS Properties (Step by Step) (16 min) https://youtu.be/UbyaiEkLDZE
+- How to Wholesale With Real Estate Agents (10 min) https://youtu.be/pgFPFZDg37Q
+- Wholesaling MLS (On-Market) Houses from Realtors | STEP BY STEP (Free $1,000 MLS Course) (22 min) https://youtu.be/GZbT3AuveeU
+- WATCH ME COLD CALL AGENTS LIVE TO FIND CASH BUYERS (121 min, live) https://youtu.be/-N2u78GE8pk
+- Wholesaling On Market Properties MLS (STEP BY STEP) (13 min) https://youtu.be/aYYnP5auVt4
+- The Truth about Propstream & MLS DATA GONE! | Wholesaling Real Estate (120 min, live) https://youtu.be/MhQttcN-UXc
+- How to Wholesale MLS Properties [My Perfect Offer Formula] (18 min) https://youtu.be/COZMQiKm040
+- This Will CHANGE EVERYTHING for Wholesalers | END OF REALTORS and NAR? (81 min, live) https://youtu.be/7S1RsercdZs
+- Watch Me Make Lowball Offers Real Estate Agents (LIVE CALL) (38 min) https://youtu.be/gy1rYh1na3I
+- Virtual Wholesaling 5+ MLS Deals a Month! (Step by Step Breakdown) | On-Market Properties (90 min, live) https://youtu.be/NIy1VC3XM6A
+- MLS Agent Outreach VS Off Market Outreach Wholesaling Real Estate (20 min) https://youtu.be/e20aUH4SiFg
+- THE END OF REALTORS? | BIG CHANGES IN 2024 FOR WHOLESALING REAL ESTATE (12 min) https://youtu.be/ceHLh80mFGM
+- 2+ Hours of LIVE COLD CALLING On-Market Properties | Wholesaling Real Estate (122 min, live) https://youtu.be/vFAKOcxe4iY
+- How to Sell Your Deals to Real Estate Agents! (Step by Step)- Wholesaling Real Estate (135 min, live) https://youtu.be/JYSS0jbS4J0
+- Wholesaling MLS Properties SUCK! (On-Market vs Off-Market Debate) (92 min, live) https://youtu.be/V5lxmdl8Rfw
+- LIVE CALLING CALL CASH BUYERS & AGENTS | WHOLESALING REAL ESTATE (81 min, live) https://youtu.be/6R3YXUz4i1A
+- How to Sell Your Wholesaling Deals to REALTORS for TOP DOLLAR! [FREE & ONLINE] (126 min, live) https://youtu.be/E7hSrLsCFs8
+- How to Get FREE Wholesaling DEALS from Real Estate Agents (Wholesaling) (15 min) https://youtu.be/8gEDC5h-5qg
+- Dealing with Realtors, Virtual Wholesaling for Beginners, & Being Exposed by Gurus | Rick Rants Ep.2 (14 min) https://youtu.be/lnOMdZtI3WE
+- How to Use REALTORS to FIND Wholesaling DEALS! (13 min) https://youtu.be/XTLU5SbvxEY
+- Realtors vs Wholesalers (Why They Hate Each Other) (18 min) https://youtu.be/4hiiT381p8g
+- Bryan Casella Shares What it Takes to Be One of The Top Realtors & Do Million Dollar Listings in LA (43 min) https://youtu.be/G_8KTLFfs2Q
+- Number #1 Tip to make more on the MLS (12 min) https://youtu.be/IDuRFoGLSgo
+
+## Offers, ARV, comps and MAO
+
+- How to Comp any Property in 57 Seconds | Wholesaling Real Estate (12 min) https://youtu.be/pC5L764v7Ak
+- How To Make A Low-Ball Offer (and NOT Piss-Off the Seller) (12 min) https://youtu.be/jueFwUljSus
+- How to Comp Properties & FIND ARV the RIGHT WAY! | Wholesaling Real Estate (61 min, live) https://youtu.be/mFT3CnAi4KM
+- How to Easily Estimate Repair Costs | Wholesaling Real Estate (12 min) https://youtu.be/YS_wFVSkEZc
+- How To Make Offers On Wholesaling Deals In 2024 (13 min) https://youtu.be/PVKX-a8TtlM
+- Presenting a Cash Offer to a Motivated Seller THE RIGHT WAY Wholesaling Real Estate (24 min) https://youtu.be/F2w2Pvic5Zs
+- 45 mins of Rick Ginn Cold Calling & Making Offers to Motivated Sellers (LIVE) (47 min) https://youtu.be/jnE7DgzbfVc
+- How to Generate Your Offers in 2 Minutes or Less (Instant Offer Formula) (10 min) https://youtu.be/afHTudoGclE
+- The ULTIMATE OFFER Formula for Wholesaling Real Estate! (Day #13) (10 min) https://youtu.be/6bzczRR13CA
+- How to Calculate the PERFECT Offer Price for Wholesaling Real Estate (13 min) https://youtu.be/6AAxBAeJd6g
+- How to Find Actual Comps on a Difficult Property (16 min) https://youtu.be/_impUhz7Hzo
+- WARNING to Wholesalers.... STOP Using the 70% RULE! (11 min) https://youtu.be/JE6erd0mRLo
+- EXACTLY How To Make A Low Ball Offer (and NOT Piss Off the Seller) (21 min) https://youtu.be/ebu9MYOTyEc
+- How to Comp Properties (2023) STEP-BY-STEP | Wholesaling Real Estate (122 min, live) https://youtu.be/UAmxBS4sxfA
+- My 2023 Instant Offer Formula for Wholesaling Real Estate (Day#13) (92 min, live) https://youtu.be/KZRK_yFJmw8
+- How to Find ARV Like a Pro (14 min) https://youtu.be/lbv8NJEF1b8
+- How To Make a Lowball Offer That Sellers Can't Refuse! (17 min) https://youtu.be/ChbdH6F5mek
+- How To Calculate The After Repair Value in Under 60 Seconds (2024) (15 min) https://youtu.be/iGhpvjVdrvc
+- The 70% Rule Is DEAD in 2026 (Here’s the REAL Way to Make Offers) (17 min) https://youtu.be/PhVFweTHc48
+- Stop Making Lowball Offers Wrong | Here's How (29 min) https://youtu.be/Sdvu7uoEqdU
+- The Fastest Way to Comp Wholesale Properties! (16 min) https://youtu.be/KfqO60seKkA
+- HOW to Comp Properties in NON-Disclosure States (Day #14) (11 min) https://youtu.be/h9L9UJMzUak
+- How to Find ARV in 2 Minutes or Less | Wholesaling Real Estate (11 min) https://youtu.be/U47Amcn5NTI
+- How to Get Low Offers Accepted (Without Pissing Sellers Off) (76 min, live) https://youtu.be/4cShAfRNYyk
+- The 5 Steps to OFFER Creative Finance for Real Estate Wholesalers (13 min) https://youtu.be/Rrlpp1GaTG0
+- 2023 Repair Cost Blueprint: Wholesaling Real Estate (91 min, live) https://youtu.be/mO_Re1eQOgQ
+- How to Instantly Find Repair Costs in 30 Seconds (2024) (13 min) https://youtu.be/v79q7x50W8Q
+- How to Comp Properties & FIND ARV the FASTEST WAY! (2024) | Wholesale Real Estate (81 min, live) https://youtu.be/nBwM3QSrMQY
+- WATCH Rick Ginn Cold Call & Make Offers to Motivated Sellers (LIVE) (33 min) https://youtu.be/LdrH9jkl8gw
+- Making A CRAZY Low Cash Offer... [BRUTAL SELLER] (26 min) https://youtu.be/WnLsLo9Yzt8
+- The 70% Rule Is DEAD in 2025 — Here’s The Offer Formula That Actually Works in Wholesaling (18 min) https://youtu.be/9g01MM01mZ4
+- How Much to Offer on a Wholesale Deal in 2023? (11 min) https://youtu.be/OTqa02RONbE
+- The 70% Rule Is DEAD… Use This Instead (2026 Wholesaling Formula) (14 min) https://youtu.be/p5DDZJJP7R0
+- You’re Offering Too Much on Wholesale Deals (Here’s the Fix) (30 min) https://youtu.be/geraibFq8Pc
+- Find ARV in Seconds! | Comps Like a Pro | Wholesaling Real Estate (10 min) https://youtu.be/LzJcTfiOWsw
+- (WATCH ME) VIRTUALLY WHOLESALE LIVE-  1+ Hours of Making Offers & COLD CALLING Over the Phone (75 min) https://youtu.be/qSd6lt1onPc
+- Wholesaling Real Estate - How to Make Low Ball Offers (19 min) https://youtu.be/Z3EC44_Bl4w
+- Stop Overthinking, and Start Low Balling (LAO Offer Formula) | Wholesaling Real Estate (91 min, live) https://youtu.be/pIvbA2iSaW8
+- 2023 Update for Finding Repair Costs in Under 30 Seconds! | Wholesaling Real Estate (12 min) https://youtu.be/JcsFV5r6qno
+- Wholesaling Deal or No Deal? Finding ARV, Estimating Repairs, & Making Offers (LIVE REAL DEAL) (16 min) https://youtu.be/Ngmsr2pQBUI
+
+## Talking to sellers: scripts, objections, appointments
+
+- THIS SCRIPT MADE ME MILLIONS! | Cold Calling Step by Step Guide | Wholesaling Real Estate (21 min) https://youtu.be/5sHCgI2g9ww
+- How to Negotiate & Make $25,000 on your Wholesaling Real Estate Deals (16 min) https://youtu.be/3xIpSzq8Uo0
+- SMS Text Blasting Step by Step Guide (Free Scripts!) (133 min, live) https://youtu.be/CiK4D_1B6iA
+- How to Vet & Qualify Your Cash Buyers for Wholesaling Real Estate (13 min) https://youtu.be/Pj2wpjOSHwM
+- The Perfect Cold Calling Script for Wholesaling Real Estate (Complete Breakdown) (25 min) https://youtu.be/8EOFb7hfABg
+- Cold Calling Step by Step Beginners Guide (FREE SCRIPTS) for Wholesaling Real Estate (73 min, live) https://youtu.be/46XnRRDJLEg
+- How To Talk To Motivated Sellers For Wholesaling (FREE SCRIPT)! [DAY#15] (70 min, live) https://youtu.be/Rucu9Mpj40g
+- The 5 Scripts to Use to Get Ahead of 99% of Wholesalers (46 min) https://youtu.be/MrtcsWHK25E
+- The Best Cold Calling Script That Actually Works | Wholesaling Real Estate (15 min) https://youtu.be/-pWeDpLYpfI
+- How to Talk to Sellers | Cold Calling Tips (Wholesaling Real Estate) (11 min) https://youtu.be/mCm8uVtvf-0
+- How to Overcome the Top 10 Objections in Wholesaling Real Estate! (21 min) https://youtu.be/vF_va4piqf8
+- How to Negotiate with Difficult Sellers in Wholesaling Real Estate (12 min) https://youtu.be/ER8h1Y0_Klg
+- The Top Wholesaling Scripts That Get DEALS! (2024) (14 min) https://youtu.be/-iCWNPCSXDg
+- What to Do If SELLER Wants to BACK OUT of Contract | WHOLESALING Real Estate (19 min) https://youtu.be/h4imU_hTdXo
+- Perfect Script for Talking & Qualify to Motivated Sellers | Wholesaling Real Estate [DAY #15] (120 min, live) https://youtu.be/_s_dfiFHby8
+- The Ultimate Appointment Guide (I Got The Deal)| Wholesaling Real Estate (20 min) https://youtu.be/E1wgpVaa1Ho
+- How to Overcome the Top Objections from Your Motivated Sellers | Wholesaling Real Estate (18 min) https://youtu.be/Y2QEv-_yeww
+- The Best Motivated Seller Script Ever | Wholesaling Real Estate (22 min) https://youtu.be/OOmVxvm0Xf0
+- How to Talk to Sellers Easier for Virtual Wholesaling Real Estate! (25 min) https://youtu.be/mnSQa1INt-g
+- Wholesaling Real Estate 101 | How to Overcome Objections! (63 min, live) https://youtu.be/vvTgCFdpkNE
+- How to Close Difficult Sellers (The Exact 4-Step Script That Works Every Time) (15 min) https://youtu.be/VhBOMeeds74
+- The TOP 3 Questions to Qualify Your Motivated Sellers | Wholesaling Real Estate (13 min) https://youtu.be/utzhagndcks
+- The Best Motivated Seller Script That Actually Works | Wholesaling Real Estate (83 min, live) https://youtu.be/JDC0-TSPb_I
+- Negotiation 101: Wholesaling Real Estate (19 min) https://youtu.be/5HNEIjL615U
+- WATCH THIS Before You Go on Your Appointments | Wholesaling Real Estate (17 min) https://youtu.be/BOYRu9wWoxk
+- Wholesale Real Estate LIVE!- (FREE Scripts for Cold Calling, Talking to Sellers, & Buyers.) | Day#28 (120 min, live) https://youtu.be/7RxwSzSi7JM
+- Wholesaling Real Estate- Objection Handling 101 (100 min, live) https://youtu.be/XynoEcR_1ag
+- Top 5 Objections from Sellers & HOW TO OVERCOME THEM | Wholesaling Real Estate [DAY #19] (19 min) https://youtu.be/Wb0GINH1CoA
+- Top 5 Seller Objections In Wholesaling Real Estate (20 min) https://youtu.be/QI0jT5lkG8g
+- [DAY #19] The Top Objections from Sellers & HOW TO OVERCOME THEM (11 min) https://youtu.be/_tXGckbqm3s
+- How to Qualify Your Sellers Leads | Wholesaling Real Estate (8 min) https://youtu.be/p3sIEwYpLmc
+- COPY MY "GURU KILLER" Cold Calling Script to Make Millions! | Wholesaling Real Estate (91 min, live) https://youtu.be/Jhj_SEN2vgA
+- Scared to Talk to Sellers? Do This (Wholesaling 2026) (36 min) https://youtu.be/MGuJUhxRQ9A
+- WATCH ME RE NEGOTIATE Price with a Seller LIVE - Wholesale Real Estate (17 min) https://youtu.be/e6EoOOA187Y
+- How to Build Rapport with Motivated Sellers!! | [Day #17] | Wholesaling Real Estate (131 min, live) https://youtu.be/HlBWKic1Xuo
+- [DAY #21] What If SELLER Wants to BACK OUT & GET OUT of the Contract? | Wholesale Real Estate (9 min) https://youtu.be/ZO0IfNlQNAc
+- How to Find 50+ Qualified Cash Buyers Per Month! | Wholesaling Real Estate (11 min) https://youtu.be/JOfVIzDvPNY
+- Virtual Wholesaling | Cold Calling Script Breakdown (95 min, live) https://youtu.be/CAeUoNOY5Zg
+- THE EXACT SCRIPT THAT MADE ME MILLIONS! | Cold Calling | Wholesaling Real Estate (18 min) https://youtu.be/Kj7CKDI9vEI
+- Sales, Negotiation, and Converting Leads- Wholesaling Real Estate (121 min, live) https://youtu.be/1ShNYyejnNY
+
+## Cold calling, texting and other marketing
+
+- 2+ Hours of LIVE COLD CALLING Property Sellers | Wholesaling Real Estate (121 min, live) https://youtu.be/nQVY4d6_a-0
+- Whats the Best Dialer for Cold Calling? | Wholesaling Real Estate (11 min) https://youtu.be/hhltYZzK39I
+- How I made $75,000 in 4 Weeks in SMS Text Blasting!!! (13 min) https://youtu.be/afb1FCLlZR0
+- [WATCH ME] Cold Call Live SELLERS for Wholesaling Real Estate (90 min, live) https://youtu.be/X8vLqVUBf9s
+- Live Cold Calling!!! | Wholesaling Real Estate (72 min, live) https://youtu.be/bfD3rPi748s
+- SMS Text Blasting Your First Deal Wholesaling Real Estate (12 min) https://youtu.be/l9HHmQpLdcY
+- The Best FREE Auto-Dialer for Cold Calling (Wholesaling Real Estate) (129 min, live) https://youtu.be/FGV7p3-tJNM
+- How to Use VA's for Cold Calling | Wholesaling Real Estate (8 min) https://youtu.be/-EoTnjShYn4
+- The Ultimate Cold Calling Challenge: 1+ Hours of LIVE CALLS! (Wholesaling Real Estate) (91 min, live) https://youtu.be/qrelRZaaEgU
+- SMS Text Blasting STEP BY STEP (2022) | Wholesaling Real Estate (60 min, live) https://youtu.be/_GVqabxj1IM
+- Wholesaling Real Estate | Driving for Dollars using Deal Machine (9 min) https://youtu.be/XxEcHHAIzlY
+- Wholesaling Real Estate- 2+ HOURS of LIVE Cold Calling! (122 min, live) https://youtu.be/126mOZnJXI0
+- Reverse Driving for Dollars Step by Step (5+ Deals a Month!) (10 min) https://youtu.be/R1ivRPZj_r0
+- 2+ Hours of Cold Calling Probate Motivated Sellers (LIVE) | Wholesaling Real Estate (124 min, live) https://youtu.be/v7xyjpylzB4
+- SMS TEXT BLASTING for Wholesaling Real Estate (Step by Step) (35 min) https://youtu.be/xxoskH-HKqM
+- How to MASTER Cold Calling as a Beginner (Step by Step) | Wholesaling Real Estate Day #11 (14 min) https://youtu.be/tt-ckUgoB3I
+- 2+ Hours of LIVE COLD CALLING Motivated Sellers | Wholesaling Real Estate (121 min, live) https://youtu.be/aT36tk9HSSI
+- SMS Marketing for Motivated Sellers (Batch Leads Tutorial) (55 min, live) https://youtu.be/KowD3ZbI6l4
+- How to Make $25,000 a Month WITH NO COLD CALLING | Wholesaling Real Estate (16 min) https://youtu.be/ynyhkAAq1eg
+- LIVE COLD CALLING!!!| Wholesaling Real Estate (80 min, live) https://youtu.be/xk8Pjj_Rgbc
+- How to Make $20,000 with SMS Text Blasting | Wholesaling Real Estate (120 min, live) https://youtu.be/pBn0NQcGTE8
+- Driving for Dollars Beginners Guide Step by Step (2021) (49 min, live) https://youtu.be/eZHUr0BGRXc
+- How to Get Your First Wholesaling Deal by Driving for Dollars! (Day#10) (12 min) https://youtu.be/EtveH7u_TSw
+- How to 5X Your Cold Calling Results in 2021 | Wholesaling Real Estate (15 min) https://youtu.be/35pcKWRFtG8
+- Did Cold Calling Sellers Just Become Illegal? New FCC LAW Update for Wholesaling Real Estate (24 min) https://youtu.be/iTtvOTpyUNc
+- My Bandit Signs Secrets that Made Me 100K+ in Wholesaling Real Estate (12 min) https://youtu.be/ibu9-X2HAY8
+- $75,000 a Month Direct Mail Postcard System (2024) | Wholesaling Real Estate (11 min) https://youtu.be/YJhp1NPY-sw
+- SMS Text Blasting (Step by Step Guide) | Wholesaling Real Estate [Day#14] (9 min) https://youtu.be/WYJfhV_248c
+- [Watch Me] Cold Call Motivated Sellers LIVE – Wholesaling Real Estate (96 min, live) https://youtu.be/4EYvRkAMDhQ
+- COLD CALLING REAL ESTATE LEADS "LIVE" (5+ Leads in 30 Minutes!) | Wholesaling (121 min, live) https://youtu.be/_9JV5leRLFY
+- How to Cold Call Probates for Wholesale Real Estate (13 min) https://youtu.be/NPlAmYsyBiA
+- What is the Top Marketing Channel (With Best Returns) | Wholesaling Real Estate (12 min) https://youtu.be/WmDZqbNUtXA
+- 3+ Hours LIVE Cold Calling Motivated Sellers | Wholesaling Real Estate (180 min, live) https://youtu.be/octh4SNs4dc
+- [Watch Me] Cold Call Sellers LIVE From Start to Finish for Wholesaling Real Estate (90 min, live) https://youtu.be/fIUARIoOh0w
+- The BEST Launch Control Tutorial on Youtube! Beginner to Expert 2023 | SMS Text Blasting (42 min) https://youtu.be/HpnJ1ZduJ1s
+- [WATCH ME] Cold Call Live SELLERS (1.5+ Hours) - Wholesaling Real Estate (91 min, live) https://youtu.be/r1VaNb7kB_I
+- SMS Text Blasting Complete Breakdown (2021) (13 min) https://youtu.be/eA-xp4ISXOM
+- 🔴LIVE -2+ Hours of COLD CALLING Motivated Seller Leads (Wholesaling Real Estate) (120 min, live) https://youtu.be/pRV5jZO-_rU
+- How to Do 7+ Deals a Month with these INBOUND MARKETING Strategies! | Wholesaling Real Estate (16 min) https://youtu.be/O53EnK3ndG4
+- How Many Cold Calls Do You Need to Get a Deal? | Wholesaling Real Estate (15 min) https://youtu.be/zQ7lnT9DYoY
+
+## Lists and lead sources
+
+- The Most Accurate Free Skiptracing Platform Ever!! (BRAND NEW) (6 min) https://youtu.be/LUKgd0Eqo6k
+- How to Hack Propstream for the BEST LISTS! | Wholesaling Real Estate (17 min) https://youtu.be/CA1XfIoJL_8
+- Wholesaling Vacant Land with No Money: Wholesale Vacant Land and Make Big Profits! 🌲 (92 min, live) https://youtu.be/aHXZgvSbvgk
+- How to Pull The Water Shutoff List 🚱🚰💧🚫 | Wholesaling Real Estate (8 min) https://youtu.be/8wtruDdB0QA
+- How to Skiptrace for FREE |Wholesaling Real Estate (6 min) https://youtu.be/yo7dbQ20Rfs
+- 🌲Wholesaling Vacant Land 🌳 Step by Step Beginners Guide with No Money Needed!! (90 min, live) https://youtu.be/oFgUvTMAy-s
+- 🌲Wholesaling Vacant Land 🌳 Step by Step Beginners Guide Even If You're Broke (32 min) https://youtu.be/XZs1xWpKmEw
+- How Alex Mineo is Making $175,000 a Month Only Wholesaling Vacant Land (41 min) https://youtu.be/dzVebzZVxsQ
+- How Jonathan Duong is Making $100,000 a Month Only Wholesaling Vacant Land (33 min) https://youtu.be/8x5QRxfj1v8
+- How to Find & Start Wholesaling Pre-Foreclosure Homes (19 min) https://youtu.be/Qne5W5mosPs
+- The BEST DealMachine Tutorial on Youtube! (Beginner to Expert 2024) (17 min) https://youtu.be/KXflPgO0k5I
+- How to Find & Pull Government LISTS (Step by Step) | Wholesaling Real Estate [Day #8] (96 min, live) https://youtu.be/OoH0LsbTJlw
+- How to Find & Wholesale Probates (Step by Step) (84 min, live) https://youtu.be/YT00eO4eaFI
+- My Top 5 Propstream Lists to Pull Right Now! (61 min, live) https://youtu.be/CCZJtA-AVos
+- Wholesaling Real Estate | How to Wholesale Pre Foreclosures (2023) (13 min) https://youtu.be/utUSVraIYhs
+- How to Find & Wholesale Code Violations (22 min) https://youtu.be/PJ9U2bi_SbU
+- Propstream Complete Start to Finish Tutorial (129 min, live) https://youtu.be/7KLjxDo8ZWw
+- How To Get Your First Vacant Land Wholesaling Deal (Step By Step Beginners Guide) (53 min) https://youtu.be/3XGxb4YSmQk
+- Wholesaling Real Estate | How to Wholesale Pre Foreclosures (2023) (100 min, live) https://youtu.be/elmVO2tHxRI
+- Top 5 Skiptracing Sites for Wholesaling Real Estate 2021 (14 min) https://youtu.be/fkruVXs6oPo
+- 🌲Wholesaling Vacant Land 🌳How to Make Millions with NO Money (71 min, live) https://youtu.be/ORWH87MtPc8
+- How to Find & Wholesale Probates (Start to Finish) (102 min, live) https://youtu.be/7Wwgt5SpILE
+- How to HACK PROPSTREAM for the HOTTEST Motivated Seller LISTS - Day#9 (17 min) https://youtu.be/c1bK13X-bbc
+- The BEST DealMachine Tutorial on Youtube! Beginner to Expert 2023 (128 min, live) https://youtu.be/XfAZrc_PE_M
+- How to PULL & Wholesale Government LISTS for MASSIVE ASSIGNMENT FEES! [Day #8] (129 min, live) https://youtu.be/Mwf2j-qmoHc
+- Batch Leads VS Propstream (2024) | How To Pick The Best Leads Software (16 min) https://youtu.be/Hg0celP9-Ms
+- How to Wholesale Pre Foreclosure Houses! (2022) (126 min, live) https://youtu.be/znPJDEdmVJ8
+- PROBATE WHOLESALING- Process Overview- Real Estate Investing (49 min, live) https://youtu.be/z6Ou9NHjJ8g
+- BatchLeads VS Propstream: How To Pick The Best Leads Software (16 min) https://youtu.be/LICCgkh7S2g
+- How To Get Pre-Foreclosure and Probate List for FREE! | Wholesaling Real Estate (120 min, live) https://youtu.be/ubZqbpEAqPU
+- Wholesaling Probates for Beginners - How to Get Started! (95 min, live) https://youtu.be/ph9tTM-6VHI
+- How to Find & Wholesale Pre-Foreclosures (Step by Step) (20 min) https://youtu.be/eUvd00BUzeo
+- How to Wholesale Vacant Land (Step by Step) (123 min, live) https://youtu.be/YcU--VwtWk8
+- How to Find & Wholesale Pre-Foreclosures (15 min) https://youtu.be/OxLjGycg0jw
+- Pre-Foreclosures Are Back in 2026 (Here’s How to Profit) (14 min) https://youtu.be/vRjV_2tbRa4
+- How to Find & Wholesale Government Lists (2024) (12 min) https://youtu.be/_wDBJq7sWSE
+- How to Pull Probates on Propstream (Step by Step) (17 min) https://youtu.be/GcDUHJUoUaA
+- My Top 7 Propstream LISTS to PULL RIGHT NOW (2022) (63 min, live) https://youtu.be/q80qDgPG2OA
+- How to Get Your 1st Land Deal! | Vacant Land Wholesaling Real Estate! [DAY #25] (16 min) https://youtu.be/7WYevFdnXUY
+- Propstream vs DealMachine? Which is the Better for Wholesaling Real Estate? (15 min) https://youtu.be/OZerdT53CB8
+
+## Contracts, title companies and closing
+
+- Wholesaling Real Estate CONTRACTS for Purchase and Sales Agreement and Assignments (Day #5) (34 min) https://youtu.be/yGuR8UqT07Q
+- How to Fill Out CONTRACTS Purchase and Sales Agreement and Assignments | Wholesaling Real Estate (23 min) https://youtu.be/Vk-asG4X0rs
+- Title Companies & Closing Process Explained | Wholesaling Real Estate (10 min) https://youtu.be/4ccfrm546Vw
+- What to do After You Get The Contract Signed | Wholesaling Real Estate (19 min) https://youtu.be/b9bq0VllRww
+- How to Find Wholesaling Friendly Title Companies (15 min) https://youtu.be/YyY5Ui3IoKY
+- Title Companies & Closing Costs Explained | Wholesaling Real Estate (Day#4) (11 min) https://youtu.be/uyUiykgVZQY
+- How to Get a Proof of Funds Letter in 60 Seconds | Wholesaling Real Estate (4 min) https://youtu.be/Hllb3ixUipk
+- WATCH THIS Before You Assign Your Wholesale Contracts (16 min) https://youtu.be/Y7aXcb4qE_4
+- The ULTIMATE Purchase & Sale Contract for Wholesaling Real Estate [DAY #5] (122 min, live) https://youtu.be/LFLxa7dwrds
+- Title Companies & Closing Explained for Wholesaling Real Estate (DAY #4) (18 min) https://youtu.be/yA1PslItL_o
+- How to Get a FREE PROOF OF FUNDS Letter for Your Sellers | Wholesaling Real Estate (9 min) https://youtu.be/81fpX5XCLKM
+- Title Companies & Closings Explained for Beginners in Wholesaling Real Estate (Day#4) (24 min) https://youtu.be/itXS_PDnxa8
+- The Ultimate Title Company Guide for Wholesaling Real Estate (126 min, live) https://youtu.be/nM7c-oEsolA
+- What to Do After You Get the Contract Signed? | Wholesaling Houses 101 | [DAY #20] (11 min) https://youtu.be/bz0gboGIs6g
+- How to Fill Out Wholesaling Real Estate CONTRACTS & Assignments (Day #5) (76 min, live) https://youtu.be/1MMPX8feo2w
+- How to Do a Double Closing Wholesaling Deal with No Money Needed! (18 min) https://youtu.be/4Ueirfxr5Ww
+- How to Double Close Your Wholesaling Deals! (Day#26) (16 min) https://youtu.be/bN0s6ekFaOE
+- How to Double Close Your Wholesaling Deals (NO MONEY NEEDED) [Day#26] (15 min) https://youtu.be/KLVZ9gMbJgU
+- Wholesaling Real Estate Contracts For Dummies (Full Breakdown) (39 min) https://youtu.be/mSUNoKg5QdY
+- Wholesaling Real Estate Contracts Explained (FREE CONTRACTS) (93 min, live) https://youtu.be/UL6OhnQBm6Q
+- Double Closings Explained for Wholesaling Real Estate (13 min) https://youtu.be/LnMkb2kkrQw
+- What to Exactly Do After You Get the Contract Signed | Wholesale Real Estate (10 min) https://youtu.be/3La57B0j31U
+- My Top Closing Techniques for Acquisitions | Wholesaling Real Estate (19 min) https://youtu.be/MXaxaoLRJgY
+- How & When to Cancel a Contract | Wholesaling Real Estate (15 min) https://youtu.be/EnRY0wwknrM
+- Zach Ginn shares How He's Closing over 1,000 Wholesaling Deals a Year (125 min) https://youtu.be/MxZUckvzdZo
+- Massive Wholesaling Changes Coming... (How NAR Settlement Doubles Your Assignment Fees) (12 min) https://youtu.be/9rrWEEbeHRg
+- What to Do After Getting the Contract Signed? | Wholesaling Real Estate [DAY#20] (75 min, live) https://youtu.be/UjBD16OoSvs
+- How Our Subscribers Made Over $500,000 this Month in Assignment Fees! (10 min) https://youtu.be/ft94fX0sFNY
+- Watch this to get your first 5 signed contracts this month... (81 min, live) https://youtu.be/Bczvse4iLAI
+- How Max Dier has Closed over 1.9 Million Dollars in Assignment Fees in under 3 Years (31 min) https://youtu.be/P1_v-k75MF4
+- My TOP SECRET Closing Lines to Close any Motivated Seller! | Wholesaling Real Estate (17 min) https://youtu.be/9mlF61lvGvI
+- How Ace Cox is Closing over $50,000 a Month Wholesaling Real Estate (40 min) https://youtu.be/3OSodJ16VWE
+- Watch this to get your first 5 signed wholesaling contracts (82 min, live) https://youtu.be/uE5-Sni49vw
+- How to Write Up a Contract - Best Template (Wholesaling Real Estate) (22 min) https://youtu.be/yGpKotLvmiQ
+- My Virtual Wholesaling Closing Pitch (12 min) https://youtu.be/nVA5fcNzwZk
+- How Maximilian Dier is Closing 100+ Deals a Year with a NEW Wholesaling Method! (46 min, live) https://youtu.be/AjH638PMzZw
+- Watch this to get your first 5 signed wholesaling contracts (121 min, live) https://youtu.be/iuY4f9uQ1Nk
+- How To Get 10 SIGNED CONTRACTS in 30 DAYS Wholesaling Real Estate (Without Spending Money) (91 min, live) https://youtu.be/DuuYILmnomM
+- 5+ Hours of LIVE CLOSING PPL LEADS | Wholesaling Real Estate (304 min, live) https://youtu.be/8zfXs82djag
+- The ULTIMATE Purchase & Sale Contract for Wholesaling Real Estate [2026] (81 min, live) https://youtu.be/O18Q4wh7ljs
+
+## Cash buyers and dispositions
+
+- How to Find Cash Buyers in MINUTES!! | Wholesaling Real Estate (12 min) https://youtu.be/WJzQEhOQZOY
+- The Easiest Way to Find Cash Buyers FAST! | Wholesaling Real Estate (15 min) https://youtu.be/A9Ey16SdBcw
+- The Ultimate Cash Buyers & Dispositions Guide | Wholesaling Real Estate (75 min, live) https://youtu.be/HZcyTZGWJiU
+- How to Find Cash Buyers for Your Land Wholesaling Real Estate Deals (12 min) https://youtu.be/YyVrCwG9wy8
+- JV DEALS MADE SIMPLE (Co-Wholesaling HOW TO GUIDE) (10 min) https://youtu.be/MPxbvsUzHb0
+- How to Find 250+ Cash Buyers a Day on Facebook for FREE | Wholesaling Real Estate (14 min) https://youtu.be/eeKVT4TODLc
+- The Ultimate Dispositions & Cash Buyers Guide | Wholesaling Real Estate (120 min, live) https://youtu.be/MiluUVQDzqE
+- Buy Box Challenge (Day 1) | First Wholesaling Deal in 7 Days! (85 min, live) https://youtu.be/s4dr9Kj3_D4
+- How To Find Cash Buyers Instantly! [Wholesale Real Estate] (56 min) https://youtu.be/-9o7G7_qe_Q
+- Virtual Wholesaling Real Estate- Part 3: Finding Cash Buyers  (Step by Step) (135 min, live) https://youtu.be/2t9n3wPBqnE
+- How to Co-Wholesale JV Your Real Estate Wholesaling Deals (Step by Step) (13 min) https://youtu.be/coDFWGjh2d8
+- Ultimate Cash Buyers Dispositions Guide 2024 | Wholesaling Real Estate (22 min) https://youtu.be/u4aYwHb8ilo
+- 🚨 TRUMP IS ABOUT TO SIGN THE CASH BUYER BAN?! (BREAKING NEWS) (80 min, live) https://youtu.be/T7_3LAogzsM
+- How to Sell Your Wholesaling Deal in 24 Hours - Ultimate Cash Buyer & Disposition Guide [DAY #24] (75 min, live) https://youtu.be/5r0Lpw_7--0
+- How to Find Cash Buyers in Seconds!! | Wholesaling Real Estate (8 min) https://youtu.be/9br1ivkZFuc
+- Buy Box Challenge DAY 1 - First Wholesaling Deal in 7 Days (82 min, live) https://youtu.be/rocYT-tSuGo
+- Buy Box Challenge (LAND DAY) | First Wholesaling Deal in 7 Days! (83 min, live) https://youtu.be/plhOL0Ez6vU
+- How To Find Cash Buyers in Minutes! [Wholesaling Real Estate] (120 min, live) https://youtu.be/pHgKMDhZTgY
+- Virtual Wholesaling Step by Step- Part 3 Finding Cash Buyers (2024) (53 min) https://youtu.be/Wo9GPRy8VLg
+- From ZERO to 18 Deals in a Year from JV’s: How Ralph Peña Did It! | Wholesaling Real Estate (28 min) https://youtu.be/iRv4RemS3NE
+- Cash Buyer Secrets | Wholesaling Real Estate (41 min, live) https://youtu.be/ulB4q4xTxX4
+- How to Find Cash Buyers in Seconds!! | Wholesaling Real Estate (10 min) https://youtu.be/_AUSmerSwqI
+- How to Get Your First Wholesale Deal in 7 Days (Full Training) | Buy Box Challenge (275 min) https://youtu.be/l25f3xaWszU
+- BUY BOX CHALLENGE IS HERE!! | FIRST WHOLESALING DEAL IN 7 DAYS (13 min) https://youtu.be/KEh3LaWFaCs
+- Ultimate Cash Buyer & Disposition Guide (Step by Step) | Day #24 (11 min) https://youtu.be/WHXkjJGE5T0
+- The Ultimate Cash Buyers Guide | Wholesaling Real Estate (128 min, live) https://youtu.be/K5JQ5h53rEs
+- WATCH ME PULL 250+ Cash Buyers on Facebook (LIVE) (123 min, live) https://youtu.be/0Wg9ctt636g
+- (WATCH ME) JV a $35,000 Virtual Wholesaling Deal! (47 min) https://youtu.be/3u7pZAZTpNk
+- How Micheal & I Made $28,000 on this JV DEAL! | Wholesaling Real Estate (19 min) https://youtu.be/Y0hha7oDDMQ
+- 🔥 How to Find Cash Buyers Step by Step🔥 (Wholesaling Real Estate) (93 min, live) https://youtu.be/J6X2u30xpdQ
+- Wholesaling Real Estate | How to Do Walkthroughs with Cash Buyers! (18 min) https://youtu.be/lkjrnlgyT8w
+- How Jamil Damji Became the JV King of Wholesaling (50 min) https://youtu.be/ZccWQ5Qd7Cs
+- HOW TO FIND CASH BUYERS in 2020 + Live Q&A |Wholesaling Real Estate (84 min, live) https://youtu.be/YuLu34QgrRo
+- 🚨 CONGRESS JUST PASSED A CASH BUYER BAN?! (NO MORE HEDGE FUNDS) (84 min, live) https://youtu.be/OWcUpwQ9bsQ
+- How to Sell Your Wholesaling Deal in Less Than 24 Hours (Dispositions 101) (34 min) https://youtu.be/J5_qZ2M3lx8
+- Market Update: How to Find REAL Cash Buyers in 2024 (14 min) https://youtu.be/nL43MWwFaYg
+- How Ralph and Khaleel Closed a $15k JV Deal | Wholesaling Real Estate (29 min) https://youtu.be/kswMNPcSmS4
+- How to Do Walkthroughs with Cash Buyers! (DAY #23) | Wholesaling Real Estate (12 min) https://youtu.be/Cw2N0-_DDnM
+- First Wholesale Deal in 7 Days - Buy Box Challenge DAY 3 (95 min, live) https://youtu.be/CwfUVgb4p3Y
+- Stop Working So Hard for Your Cash Buyers | Wholesaling Real Estate (76 min, live) https://youtu.be/mvh82VX2C24
+
+## Getting your first deal / beginner guides
+
+- How to Get Your First Wholesaling Deal in 2 Weeks (Step by Step) (16 min) https://youtu.be/m1t0qHB48tk
+- FREE & Easy Podio Setup Guide for Beginners in Wholesaling Real Estate (48 min) https://youtu.be/tBMv6f-bwiE
+- Subject To Step by Step Guide | Creative Financing | Real Estate Investing (20 min) https://youtu.be/WR0EOKNPHQo
+- The Ultimate Virtual Wholesaling Guide for Beginners (Step by Step) (27 min) https://youtu.be/MhCFuF9l8wQ
+- How To Wholesale Real Estate Step by Step (IN 14 DAYS OR LESS)! (41 min) https://youtu.be/1wdu-5GHPvg
+- How I’d Start Wholesaling Real Estate from Scratch (2024) (14 min) https://youtu.be/DznQEKlWDKQ
+- How to Wholesale Real Estate Full Course (6 Hours) (327 min) https://youtu.be/hTbgJ_2IjFQ
+- Watch Me Virtual Wholesale Houses from Start to Finish (15 min) https://youtu.be/Z2PMERBZWOw
+- How to Make $4,000 a Day MICRO FLIPPING Real Estate (Step by Step Guide) (22 min) https://youtu.be/dy9yPnqGg6U
+- FREE & SIMPLE Podio SETUP Tutorial Guide for Beginners in Real Estate Wholesaling! (2022) (70 min, live) https://youtu.be/or111u-tbEU
+- Ultimate Virtual Wholesaling Beginners Guide (2023) | Step by Step (25 min) https://youtu.be/9bFA0wiuhxk
+- How to Wholesale Commercial Properties (Step by Step) (25 min) https://youtu.be/s2D0i-3NNhg
+- Ultimate Virtual Wholesaling Beginners Guide (2025) | Step by Step (32 min) https://youtu.be/fmqpZ9XJP78
+- How I’d Start Wholesaling Real Estate from Scratch (2025) (22 min) https://youtu.be/n8IK-61vN2w
+- The Ultimate Land Wholesaling Guide for Beginners! (14 min) https://youtu.be/t1vPa3QG_8M
+- Virtual Wholesaling Real Estate- Part 1: Getting Started (Step by Step) (108 min, live) https://youtu.be/TkiwESH7qhM
+- How to FIND Motivated Seller Leads for Beginners | Wholesaling Real Estate [Day #7] (14 min) https://youtu.be/AJnb1ffJPjs
+- MY ADVICE If You Haven't Gotten Your First Deal Yet | Wholesaling Real Estate (14 min) https://youtu.be/ZvF3hEzrpuQ
+- How To Find Motivated Seller Leads Every Daily! (Step by Step) - Day #7 (12 min) https://youtu.be/C8YRIvKl1KQ
+- 10 Most Brain Dead Ways to Get Your First Wholesaling Deal! (32 min) https://youtu.be/T829lKVqSV4
+- Wholesaling Real Estate Terms & Lingo for Beginners (27 min) https://youtu.be/73AQWzoyR-I
+- FREE & Easy Podio CRM Setup Guide for Beginners | Wholesaling Real Estate Tutorial (80 min, live) https://youtu.be/WTCMAchITI0
+- How To Wholesale Real Estate Step by Step With $0 (IN 4 Weeks OR LESS)! (17 min) https://youtu.be/ALOV8pDfb9g
+- Virtual Wholesaling 5 Deals a Month! (Step by Step Breakdown) | Lauren Hardy (49 min, live) https://youtu.be/-EkdjXZYJlM
+- How to Wholesale Real Estate with AI (7 Hour Course) (402 min) https://youtu.be/UPQcjExAKTU
+- How to Wholesale Land Full Course (3 Hours) (170 min) https://youtu.be/vLtQSFrkvhA
+- (WATCH ME) Close a $57,000 Virtual Wholesaling Deal LIVE at 19 Years Old! (16 min) https://youtu.be/piKXCDo_oA4
+- Virtual Wholesaling 5 Deals a Month! (Step by Step Breakdown) | Rav Bhinder (33 min) https://youtu.be/sk0sr5FrIFU
+- Acquisitions Training for Beginners in Wholesaling Real Estate (64 min, live) https://youtu.be/8AEZDz8vlJU
+- Virtual Wholesaling Live Training (Step by Step) (93 min, live) https://youtu.be/2sZdwfcq1uk
+- How to Find & Wholesale Your First Deal in Under 2 Weeks (90 min, live) https://youtu.be/vW_Yc_7i-cs
+- How to Find Your First Wholesaling Deal in Less Than 48 Hours (24 min) https://youtu.be/YMCc6WdpkX0
+- How 80% of Wholesalers Get Their First Deal (3 Methods Revealed) (128 min, live) https://youtu.be/VLXX-vtNcGM
+- Virtual Wholesaling Real Estate- Part 2: Finding Deals 101 (Step by Step) (142 min, live) https://youtu.be/MDkAApYj9fI
+- Virtual Wholesaling Real Estate 101 | How To Get Started (2024) (12 min) https://youtu.be/3PFg0me9rok
+- New School Wholesaling Ep.1 | How to Get Your First Deal (129 min, live) https://youtu.be/sbM-CdCUO8U
+- How to Find The HOTTEST Virtual Wholesaling Markets (13 min) https://youtu.be/s9Ds2r40B6c
+- How To Get Your FIRST Wholesaling Deal In 14 DAYS! (Start To Finish) (122 min, live) https://youtu.be/UEZKkURNuis
+- How to Find Your FIRST WHOLESALING DEAL! | 7 Deals in 7 Days Challenge (182 min, live) https://youtu.be/LFolZRWHd2s
+- The Ultimate Virtual Wholesaling Guide for Beginners - PART 1: Getting Started (Step by Step) (23 min) https://youtu.be/EMpCJP-sntQ
+
+## AI tools for wholesaling
+
+- This AI Just Killed Wholesaling As We Know It… (18 min) https://youtu.be/2PIvM6VAfHQ
+- Revolutionary AI Technology for Wholesaling Real Estate in 2023: A Step-by-Step Guide (90 min, live) https://youtu.be/fCxg_GvzhFs
+- New FREE AI Wholesaling Software is 10X Better than ChatGPT! (17 min) https://youtu.be/x9TQZddlAnM
+- This New AI Just Broke Wholesaling Real Estate... (29 min) https://youtu.be/qzt-1x8CL_4
+- This New Chinese AI Just Broke Wholesaling... (80 min, live) https://youtu.be/ydNlYedRV1w
+- How to Use NEW MUSE AI to Wholesale Real Estate for you! (40 min) https://youtu.be/eX5VFTjBgaw
+- My New AI Caller just Broke Wholesaling... (23 min) https://youtu.be/uwpwoYNS4gA
+- These 4 Ai Tools Will Make You a Superhuman Wholesaler! (8 min) https://youtu.be/DEbtnZLGS58
+- How I Use Claude AI to Make $40,000 Wholesaling Real Estate (41 min) https://youtu.be/xHOT3fUdjhU
+- How to use New Chat GPT 5 to Make Money Wholesaling Real Estate. (80 min, live) https://youtu.be/T_yjaxd0oEM
+- Meta Muse Is the Best FREE AI Agent Yet (Here's How I Use It to Wholesale Real Estate) (83 min, live) https://youtu.be/6Ldvq1sxG8I
+- Claude has changed Wholesaling Real Estate Forever (Tutorial) (16 min) https://youtu.be/r9Z6MG8LQxk
+- GPT-6 Astra Has Broken Wholesaling... (81 min, live) https://youtu.be/ALsY_Dlj3yQ
+- Claude Co-Work Automates EVERYTHING for Real Estate Wholesalers (15 min) https://youtu.be/_Zb80IxRRno
+- GPT 6 Astra Just Changed Wholesale Real Estate Forever (42 min) https://youtu.be/EdHR8pc6e4Y
+- 5 Genius Ways Wholesalers Are Using ChatGPT (90 min, live) https://youtu.be/PChOta6sTJo
+- How to Use AI in 2026 to Get the BEST Wholesaling Deals (22 min) https://youtu.be/YYYwO5javoY
+- ‼️I’m Begging You to Take Wholesaling Seriously… Before AI Takes Your Job (19 min) https://youtu.be/pAJ3AV9l9yA
+- Wholesale Real Estate AI Series: The Top 7 Ways to Use ChatGPT (10 min) https://youtu.be/VSyGqaNE_Zg
+- AI Will Replace Wholesalers Who Ignore This (WAKE THE F*CK UP) (16 min) https://youtu.be/bd59mVncyOs
+- 7 AI Tools That Will Separate Winners from Losers in 2025 | Wholesaling Real Estate (19 min) https://youtu.be/9OYan7PuehI
+- How To Get UNLIMITED Motivated Seller Leads In Minutes (GPT Agent Mode) | Wholesaling Real Estate (84 min, live) https://youtu.be/JO8-S2BLCg0
+- Revolutionary AI Technology for Wholesaling Real Estate in 2024: (Step-by-Step Guide) (82 min, live) https://youtu.be/wfKIAqG_QmI
+- The AI Gold Rush is Coming to Wholesaling... (23 min) https://youtu.be/JMaynQi2xAw
+- How to use New Claude 5 to Make Money Wholesaling Real Estate (81 min, live) https://youtu.be/FcWZMUhr5WY
+- Will ChatGPT RUIN Your Wholesaling Business? [Survival Guide] (11 min) https://youtu.be/_c9hCWb2IQk
+- Your Wholesaling Coach Charges $10K. My AI Coaches for Free... (90 min, live) https://youtu.be/eq6vxYZu6q0
+- AI + Google Maps = Secret Method to Finding Wholesale Deals! (83 min, live) https://youtu.be/xblH_gDlxXg
+- How to Use ChatGPT to Make Money Wholesaling Real Estate (2026) (80 min, live) https://youtu.be/mq6tDbabbTc
+- This FREE AI Agent Is INSANE for Real Estate Wholesaling (Meta Muse) (6 min) https://youtu.be/_sNa4xD6LJk
+
+## Land, mobile homes, commercial and creative finance
+
+- Explaining “Subject To” Terms to Motivated Sellers | Real Estate Investing | Creative Finance (23 min) https://youtu.be/ledeLTgQ3gQ
+- How to Make $20k a Month Wholesaling Mobile Homes (12 min) https://youtu.be/_QHu2jGYb4Q
+- Novation Agreements VS Wholesaling Real Estate (EXPLAINED) (19 min) https://youtu.be/6GWShdQbl54
+- How to Find & Wholesale Land (17 min) https://youtu.be/m4tsqc3I0x4
+- The 7 Rules for Wholesaling Mobile Homes (10 min) https://youtu.be/s9Ciea2HAzA
+- How to Take Over Mortgages Subject To! (20 min) https://youtu.be/MctCmBDzrPU
+- How Carson & Jackson Wiener is Making $500,000 a Month Wholesaling Land (42 min) https://youtu.be/yEB3jAcYdyE
+- How I MADE $7,000 VIRTUALLY WHOLESALING Land from HOME (14 min) https://youtu.be/fuCDdZmMiUE
+- 🌲The Secret to Making $20,000 in 30 Days Wholesaling Land (with no money) 🌳 (17 min) https://youtu.be/FRncOWUKH1k
+- How to get started wholesaling land with no money (17 min) https://youtu.be/YheXSwtRrKg
+- Creative Finance 101- Start to Finish Guide (2023) (124 min, live) https://youtu.be/U1jHVF5H8mg
+- Micro Flipping vs Wholesaling Real Estate (12 min) https://youtu.be/CUGfrNGdjH0
+- Wendy Patton Shares How She Became the Queen of Lease Options (72 min) https://youtu.be/srKSijFsnDs
+- Creative Finance from Start to Finish (Lease Options, Subject To, Wraps) (53 min, live) https://youtu.be/5LdD0k8lyFk
+- How to Land Your First Title Curative Deal in 2 Weeks (35 min) https://youtu.be/F2H6s9BUuLs
+- How to Make a Fortune Wholesaling Mobile Homes | Rick Ginn LIVE (93 min, live) https://youtu.be/tQpy_iXXh2Y
+- How to Get Your First Land Wholesale Deal in 2026 (20 min) https://youtu.be/QRe1tedWB_c
+- The TRUTH ABOUT NOVATION Agreements and Wholesaling Real Estate (65 min, live) https://youtu.be/hijQcgQc-F8
+- $50,000 Wholetail Deal |Real Estate Vlog #6 (10 min) https://youtu.be/FZQ131rOHY4
+- Wholesaling Lease Options (Rent to Own Wholesaling) Explained (74 min, live) https://youtu.be/wGG9l3cTK4o
+- From NO Wholesaling Deal to YES on Seller Finance Deal - FULL LIVE CALL! (29 min) https://youtu.be/cSgmc3_sFgU
+- 🚨This Might Be the End of Subject To as We Know It... (86 min, live) https://youtu.be/h57Jb9g27YU
+- How to Make $300,000 in Passive Income with Creative Finance (2022) | Real Estate Investing (120 min, live) https://youtu.be/dvBCEL-ABCg
+- How to Make Your First $300,000 this year in Subject To's & Lease Options | Real Estate Investing (19 min) https://youtu.be/7z42cIzBK1k
+- 🚨 Is this the End of Subject-To? (Urgent Market Update) (87 min, live) https://youtu.be/d-9ICfPNHF4
+- Introduction To Creative Finance 101 - Subject To's, Lease Options, and Owner Financing (Part 2) (30 min) https://youtu.be/hC8YVCioqJI
+- How to Find & Wholesale Subject-To Deals (Step-by-Step Framework) (22 min) https://youtu.be/eqrd6e9IphE
+- How to Convert Sellers on Creative Finance! | Real Estate Investing (45 min, live) https://youtu.be/OiZN06ouiLA
+- How to Explain Subject To & Creative Finance with a Seller (27 min) https://youtu.be/8p5w1u9HZgM
+- How to Turn Your Dead Wholesaling Leads into Huge Real Estate Deals! -Subject To & Creative Finance! (92 min, live) https://youtu.be/-2ywK3QN0PI
+- If you can’t land a wholesaling deal after this you should just give up… (82 min, live) https://youtu.be/FetbI59F1n4
+- Subject To Deal Breakdown (Mobile Home Profits) (13 min) https://youtu.be/ggQ3n63LXFs
+- The $500 Creative Finance Deal (How I Did It!) (15 min) https://youtu.be/V_3_cfFubfc
+- How to Get Your First Subject To Deal | Real Estate Explained (53 min, live) https://youtu.be/Z3q4lurOVsI
+- How to Make $100,000 This Year Wholesaling Commercial Real Estate (19 min) https://youtu.be/fLqIsOTSx98
+- How I turned a 20k Real Estate Wholetail Deal Into 61k! (10 min) https://youtu.be/IfrP5w6fK7c
+- Tim Bratz Shares How He's On Track to Building a Billion Dollar Commercial Real Estate Empire (55 min) https://youtu.be/fl76jUYs1RY
+- Creative Financing in 2021 | Lease Options & Subject To’s (22 min) https://youtu.be/XU0suJ7B6EQ
+- Kick Wholesailing to the Curb and bring on Wholetailing! (8 min) https://youtu.be/ASTJvOSz90Q
+- Rick Ginn's Honest Advice about Wholesaling Creative Finance Deals (8 min) https://youtu.be/Lyfmla7Bi5o
+
+## Market updates and laws
+
+- How to Find the Best Zip Codes for your Market | Wholesaling Real Estate (12 min) https://youtu.be/9yCZbB_0zBc
+- The Wholesaling Market is About to Change... Here's What to Do (90 min, live) https://youtu.be/7Jt-SrOno_E
+- Wholesaling Real Estate | New "Ban" Just Passed & More Regulations for Wholesalers... (37 min) https://youtu.be/ClNO4U7P8qQ
+- Is Wholesale Real Estate Worth It in 2026? (Honest Review) (12 min) https://youtu.be/q2fgIZH6XLs
+- The Best Lead Generation Strategy for 2026 | Wholesaling Real Estate (21 min) https://youtu.be/s9-2XgsRfNw
+- The Top Virtual Market in EVERY STATE (RANKED) - Wholesaling Real Estate (122 min, live) https://youtu.be/Bt1DpTxlgGg
+- These 10 Markets Are Printing Money for Wholesalers in 2026 (19 min) https://youtu.be/v31yttSunrs
+- Top 10 Best Wholesaling Markets for 2023… (12 min) https://youtu.be/WWHfCjA9Nys
+- ⚠️WARNING⚠️ RIGHT NOW IS BIGGEST Opportunity in Wholesaling since 2008! | Real Estate CRASH! (125 min, live) https://youtu.be/rK3eU9Uh6fs
+- The NEW Rules of Wholesaling Real Estate (2026) (40 min) https://youtu.be/lOXwZFALAWQ
+- Do You Need An LLC For Wholesaling Real Estate? (Legal Setup Guide) (13 min) https://youtu.be/gn6zE9BswaA
+- Top 10 Worst Wholesaling Markets for 2023… (12 min) https://youtu.be/aPx1XuKC2Pw
+- The Only Wholesale Real Estate Course You’ll Need in 2026 (100% Free) (153 min) https://youtu.be/ZelnmQIVUdU
+- Wholesale Real Estate Regulation is Coming… (What to Do About it) (93 min, live) https://youtu.be/RICL8lcwrAw
+- HOW TO FIND THE HOTTEST MARKETS & ZIP CODES IN WHOLESALING REAL ESTATE! [DAY#6] (20 min) https://youtu.be/PVMhnEQehEY
+- A simple 1 man business wholesaling that will make $25k a month in 2026 (19 min) https://youtu.be/IKlXC4u-LgE
+- How I Would Start Wholesaling Real Estate in 2026 (19 min) https://youtu.be/QMq_kl5RLU4
+- Wholesaling Is Getting Banned in Virginia!? - New Law Passed for Wholesalers (WHAT TO DO) (14 min) https://youtu.be/LlXY2o-xnrQ
+- A Simple 1 Person Wholesaling Business That Will Make $25K a Month in 2026 (22 min) https://youtu.be/amk-guczvws
+- Top 5 Markets for Wholesaling Real Estate (2023) (120 min, live) https://youtu.be/ZDxS5A-BLTY
+- How to Find the Best Zip Codes & Areas for Any Market | Wholesaling Real Estate (15 min) https://youtu.be/DV84sCPRZ1A
+- How I’d Make Money with Wholesaling in 2026 If I Had to Start Over (16 min) https://youtu.be/JqeatEAq-68
+- Your 30 Day Action Plan to Make $250,000 a Year Wholesaling Real Estate (2026) (12 min) https://youtu.be/ktX6DqyaVaA
+- The Easiest Way New Wholesalers Are Getting Deals in 2026 (20 min) https://youtu.be/iEEmm2F2xjo
+- The TRUTH about the New Texas Law that “Killed Wholesaling” (22 min) https://youtu.be/_XmQ1onrg3A
+- Wholesaling Real Estate in 2026 (What’s Actually Working Now) (17 min) https://youtu.be/g3wIAO5X4c4
+- 2023's Top 5 Wholesaling Real Estate Markets You Need to Act On Now! (23 min) https://youtu.be/CV8OGzKU4t8
+- If I Started Wholesaling Real Estate in 2026, I'd Do This (14 min) https://youtu.be/7l8SxwL8kcI
+- The Future of Wholesaling Real Estate (How to Prepare for 2026) (17 min) https://youtu.be/TkjnJo6DO3Q
+- Top 10 Cities You MUST Wholesale Real Estate in 2025 | Best Markets for Wholesaling (82 min, live) https://youtu.be/MToU3pDcmxg
+- How To Get So Many Wholesaling Leads It Feels Illegal... (14 min) https://youtu.be/v8W_r8f5zqM
+- Why you Need a Lawyer for Wholesaling Real Estate (18 min) https://youtu.be/yr2ImprhNms
+- New Tennessee Wholesaling Law: What Wholesalers NEED to Know (17 min) https://youtu.be/YIiaVxWiId8
+- Wholesalers Beware! Don't Start Wholesaling Houses in 2026 without Watching this Video!! (18 min) https://youtu.be/ere6P-c27Ww
+- Is Wholesale Real Estate Still Worth It In 2026? (27 min) https://youtu.be/XH5OU2dykRA
+- If you want 2026 to be the best year of your life. Please watch this video to get rich wholesaling… (80 min) https://youtu.be/gVLFEj5R2OQ
+- How to Start Wholesaling Real Estate in 2026 (I Taught My 16-Year-Old This System) (52 min) https://youtu.be/LY2qUxTyGnw
+- Proof Wholesaling is not BANNED In South Carolina (HB 4754 Review) (16 min) https://youtu.be/Y4D3Uo7yDgY
+- This 30-Day Wholesaling Schedule Prints So Much Money It Feels Illegal (11 min) https://youtu.be/7olt21XC70I
+- Wholesalers Beware! The Market is Changing Up FAST! (DO THIS NOW!) (90 min, live) https://youtu.be/mrQeI0BFWcA
+
